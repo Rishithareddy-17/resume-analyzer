@@ -1,0 +1,69 @@
+Resume Analyzer App
+
+An AI-powered Resume Analyzer that evaluates resumes and provides smart suggestions to improve job readiness and ATS compatibility.
+
+---
+
+ Features
+
+* Resume parsing and information extraction
+* Skill analysis and keyword matching
+* ATS (Applicant Tracking System) compatibility check
+* Smart suggestions for improving resume quality
+* Score-based evaluation system
+
+---
+
+ Tech Stack
+
+* Python
+* NLP
+* Streamlit 
+     CSS (for UI)
+---
+
+ Installation
+
+1. Clone the repository
+
+```
+git clone https://github.com/your-username/resume-analyzer.git
+```
+
+2. Navigate to project folder
+
+```
+cd resume-analyzer
+```
+
+3. Install dependencies
+
+```
+pip install -r requirements.txt
+```
+
+4. Run the application
+
+```
+streamlit run app.py
+
+``
+Output
+
+Upload a resume → Get analysis → Improve your resume ✨
+
+---
+Future Improvements
+
+* Job description matching
+* Resume ranking system
+* AI-based suggestions using LLMs
+* Dashboard with analytics
+
+---
+ Contributing
+
+Feel free to fork this repo and improve the project.
+
+---
+Author: Rishitha Reddy
